@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+	font-family: Roboto, sans-serif;
+}
+
+header {
+	background-color: #F0BD35;
+	height:100px;
+}
+
+header h1 {
+	/*font-family: Roboto, sans-serif;*/
+	color:#1F2124;
+	margin-bottom: 0px;
+}
+
+header p {
+	margin-top: 0px;
+	/*font-family: Roboto, sans-serif;*/
+	color:#1F2124;
+	font-weight: bold;
+}
+
+main {
+	padding-top: 20px;
+}
+
+.card {
+	border:1px solid #d9dadb;
+	height:400px;
+	margin-bottom: 20px;
+}
+
+.card-image {
+	height:75%;
+	width:100%;
+}
+
+.card h2,
+.card p {
+	margin: 20px;
+}
+
+.card h2 {
+	margin-bottom: 10px;
+}
+
+.card p {
+	margin-top:10px;
+}
